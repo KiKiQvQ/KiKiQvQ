@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KiKiQvQ, KiKi Chen
 - 👀 I’m interested in coding and reading
 - 🌱 I’m currently learning full-stack developing
-- 💞️ I’m looking a new job in Adelaide 
+- 💞️ I’m looking for a new job in Adelaide 
 - 📫 How to reach me : +61 0481733910
 
 
